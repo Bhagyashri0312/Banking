@@ -1,0 +1,9 @@
+1700
+Bhagya
+bhagya
+bhagya123
+22334455
+TRANSACTION:1
+Rs.(+2000) :: 09/01/2023 23:56:56 :: Self Deposit 
+Rs.(-200) :: 09/01/2023 23:57:50 :: Self Withdraw
+Rs.(-300) :: 10/01/2023 00:43:21 :: Transferred to Krishna (Krishna)
