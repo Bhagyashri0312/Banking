@@ -1,12 +1,10 @@
-//Class for register/login
+
 class Login {
-    //Variables to store different stuff
     private String username;
     private String password;
     private String Name;
     private String number;
 
-    //Constructor to initialise variables that are private
     Login(String name, String username, String password, String number) {
         setName(name);
         setUsername(username);
@@ -14,7 +12,6 @@ class Login {
         setNumber(number);
     }
 
-    //Getters and setters as they are private
     public String getUsername() {
         return this.username;
     }
